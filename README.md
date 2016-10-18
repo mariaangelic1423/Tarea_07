@@ -25,6 +25,7 @@ Debes escribir un programa que implemente un juego, las características que deb
 
 
 **Entregables**
+
 1. Entregar una propuesta que contiene una descripción del juego que vas a realizar acompañado de imágenes que expliquen de forma general cómo se verá corriendo.
 2. El proyecto completo se entrega en un archivo .zip con el código fuente y todos los recursos necesarios para su ejecución (imágenes y sonidos). La fecha de entrega es dos días antes del examen final.
 
