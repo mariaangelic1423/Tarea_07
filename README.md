@@ -5,9 +5,11 @@
 ###Programación de un juego en Python.
 
 **Objetivo.**
+
 Integrar todos los conocimientos aprendidos durante el curso para crear un juego interactivo en Python.
 
-***Descripción.**
+**Descripción.**
+
 Debes escribir un programa que implemente un juego, las características que debe tener son:
 
 1. Debe ser gráfico. (Sólo puedes usar la librería Graphics de Calico)
